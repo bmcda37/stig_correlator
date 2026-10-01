@@ -1,0 +1,3 @@
+Host,GpoName,Order
+WKGRP-SRV01,Server 2022 STIG Baseline,1
+WKGRP-SRV01,Default Domain Policy,2
