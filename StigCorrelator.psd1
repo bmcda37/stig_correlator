@@ -1,9 +1,6 @@
 @{
     RootModule        = 'StigCorrelator.psm1'
     ModuleVersion     = '1.2.0'
-    GUID              = '5d1f7a52-3c2e-4b8e-9a61-2f0c6e8b4d17'
-    Author            = 'GoPivot Solutions - Infrastructure & Compliance'
-    CompanyName       = 'GoPivot Solutions'
     Description       = 'Correlates Tenable STIG compliance results with domain GPO settings (XCCDF regex method) and generates STIG Viewer 3 .cklb checklists.'
     PowerShellVersion = '7.2'
     FunctionsToExport = @(
